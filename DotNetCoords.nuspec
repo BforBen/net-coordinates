@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>DotNetCoords</id>
+    <version>1.0.0.15</version>
+    <authors>Chris Bell</authors>
+    <owners>Guildford Borough Council</owners>
+    <licenseUrl>https://github.com/GuildfordBC/net-coordinates/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/GuildfordBC/net-coordinates/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This C# library can be used to convert from one mapping coordinate system to another, for instance converting latitude/longitude to UK OS coordinates.</description>
+    <releaseNotes>Initial release to Nuget.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+  </metadata>
+</package>
